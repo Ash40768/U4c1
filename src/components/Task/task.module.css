@@ -1,0 +1,8 @@
+.task {
+  /* Sample  */
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: center;
+  background-color: light gray;
+  margin: 10px;
+}

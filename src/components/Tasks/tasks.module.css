@@ -1,0 +1,13 @@
+.tasks div {
+  /* sampdle */
+  display: flex;
+  margin:0 5px;
+}
+
+.empty {
+  /* sample */
+text-align: center;
+  width: 100px;
+  height: 100px;
+
+}
